@@ -1,0 +1,10 @@
+# requirements.txt
+pandas ==2.2.2
+numpy==1.26.4
+ccxt==4.4.49
+pandas_ta==0.3.14b0
+stocktrends==0.1.5
+scipy==1.13.1
+requests==2.32.3
+
+
