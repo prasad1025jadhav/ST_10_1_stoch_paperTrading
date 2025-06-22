@@ -16,6 +16,8 @@ import warnings
 import time
 warnings.filterwarnings('ignore')
 
+#pip3 install --user -r requirements.txt
+
 # Add your Dhan Client ID and Access Token
 client_id = "1101927963"
 access_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzUyNzcyMTYyLCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwMTkyNzk2MyJ9.HUvWwY8iUALo6HjsK1DhR4OUUvXxx7HEpiuipHhH1k_iyGlbQzaw2p_7xz0lMsq0EDP8g0RVe7p9Tvj6ewtT2A"
